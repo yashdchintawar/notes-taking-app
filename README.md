@@ -5,13 +5,11 @@ Certainly! Below is a README template with a simple and improved UI for your Not
 
 A lightweight and intuitive note-taking web application to help you organize your thoughts effortlessly.
 
-![Note Taker App](url-to-screenshot-or-gif)
-
 ## Features
 
-- **Create Notes:** Easily add new notes with a click of a button.
-- **Edit and Delete:** Use intuitive icons to manage your notes.
-- **Persistent Storage:** Your notes are saved locally, ensuring data persistence.
+- Create Notes: Easily add new notes with a click of a button.
+- Edit and Delete: Use intuitive icons to manage your notes.
+- Persistent Storage: Your notes are saved locally, ensuring data persistence.
 
 ## Preview
 
