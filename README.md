@@ -39,7 +39,5 @@ Contributions are welcome! Feel free to open issues, suggest improvements, or su
 
 - [Yash Chintawar](https://github.com/yashdchintawar)
 
-Copyright © [Year] | Yash Chintawar
+Copyright © 2024 | Yash Chintawar
 ```
-
-Make sure to replace `[Year]` and `[Your Name]` with the appropriate information. Also, replace `url-to-screenshot-or-gif` with the actual URL or path to a screenshot or GIF showcasing your application. This will provide a more engaging and informative README for users visiting your GitHub repository.
