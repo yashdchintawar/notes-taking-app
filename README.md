@@ -11,9 +11,9 @@ A lightweight and intuitive note-taking web application to help you organize you
 - Edit and Delete: Use intuitive icons to manage your notes.
 - Persistent Storage: Your notes are saved locally, ensuring data persistence.
 
-## Preview
+## Live Demo
 
-Include a screenshot or GIF of your application here.
+Check out the live demo [here](https://yashdchintawar.github.io/notes-taking-app/).
 
 ## Usage
 
