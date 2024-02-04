@@ -25,7 +25,7 @@ Include a screenshot or GIF of your application here.
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yashdchintawar/otes-taking-app.git
+   git clone https://github.com/yashdchintawar/notes-taking-app.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
